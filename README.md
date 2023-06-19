@@ -14,3 +14,8 @@ The rules for approval and disapproval of topic suggestions.
 # Remember
 
 Use your commmon sense and ask other mods/topic mods if you are unsure before voting for a topic, if you see someone repeatedly attempting to evade rules and submit bad topics, report them to mods.
+
+# Extra Info
+
+YELLOW HIGHLIGHTED TOPIC == User Donated Topic (payed)
+PURPLE HIGHLIGHTED TOPIC == Discord Suggested Topic (not payed)
