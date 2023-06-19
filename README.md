@@ -40,5 +40,5 @@
 <p class="has-line-data" data-line-start="34" data-line-end="36">Use your commmon sense and ask other mods/topic mods if you are unsure before voting for a topic, if you see someone repeatedly attempting to evade rules and submit bad topics, report them to mods.<br>
 If you think a topic breaks any of these rules, <strong><em>don’t</em></strong> suggest them. And if you want to make characters scream <strong>at least be original</strong> as well.</p>
 <h1 class="code-line" data-line-start=37 data-line-end=38 ><a id="Extra_Info_37"></a>📚Extra Info</h1>
-<p class="has-line-data" data-line-start="39" data-line-end="41">&lt;span style=“color:yellow”&gt;YELLOW&lt;/span&gt; HIGHLIGHTED TOPIC: <strong>User</strong> Donated Topic (payed)<br>
-&lt;span style=“color:purple”&gt;PURPLE&lt;/span&gt; HIGHLIGHTED TOPIC: <strong>Discord</strong> Suggested Topic (<strong>not</strong> payed)</p>
+<p class="has-line-data" data-line-start="39" data-line-end="41">&lt;<span style=“color:yellow”>YELLOW</span> HIGHLIGHTED TOPIC: <strong>User</strong> Donated Topic (payed)<br>
+<span style=“color:purple”>PURPLE</span> HIGHLIGHTED TOPIC: <strong>Discord</strong> Suggested Topic (<strong>not</strong> payed)</p>
