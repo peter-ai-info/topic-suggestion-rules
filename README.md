@@ -1,7 +1,7 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Rules_for_topic_suggestions_0"></a>Rules for topic suggestions!</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Here are the rules about accepting and denying requests for the <a href="https://www.youtube.com/@ai-peter/live">AI_Peter Livestream</a> regarding to the <a href="https://discord.com/channels/1115999278654042316/1119019139965648998">#topic-suggestions</a> channel.</p>
 <h1 class="code-line" data-line-start=4 data-line-end=5 ><a id="When_reviewing_a_suggestion_4"></a>When reviewing a suggestion</h1>
-<h5 class="code-line" data-line-start=5 data-line-end=6 ><a id="Please_pay_attention_to_the_following___5"></a>⚠️Please pay attention to the following:  ⚠️️</h5>
+<h3 class="code-line" data-line-start=5 data-line-end=6 ><a id="Please_pay_attention_to_the_following___5"></a>⚠️Please pay attention to the following:  ⚠️️</h3>
 <ol>
 <li class="has-line-data" data-line-start="7" data-line-end="10">
 <p class="has-line-data" data-line-start="7" data-line-end="9"><strong>NO RACIAL SLURS/DEROGATORY TERMS (AI-R.1)</strong><br>
