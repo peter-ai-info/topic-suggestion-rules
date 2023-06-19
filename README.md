@@ -41,4 +41,4 @@
 If you think a topic breaks any of these rules, <strong><em>don’t</em></strong> suggest them. And if you want to make characters scream <strong>at least be original</strong> as well.</p>
 <h1 class="code-line" data-line-start=37 data-line-end=38 ><a id="Extra_Info_37"></a>📚Extra Info</h1>
 <p class="has-line-data" data-line-start="39" data-line-end="41">&lt;<span style=“color:yellow”>YELLOW</span> HIGHLIGHTED TOPIC: <strong>User</strong> Donated Topic (payed)<br>
-<span style=“color:purple”>PURPLE</span> HIGHLIGHTED TOPIC: <strong>Discord</strong> Suggested Topic (<strong>not</strong> payed)</p>
+	$${\color{red}Red}$$ HIGHLIGHTED TOPIC: <strong>Discord</strong> Suggested Topic (<strong>not</strong> payed)</p>
